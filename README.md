@@ -8,9 +8,7 @@
 
 ⚡ Fun Fact: AI never sleeps, but I do… sometimes! 😆
 
-<a href=""C:\Users\Fg\Downloads\artificial intelligence horror GIF by Red Giant.gif"">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
 <p align="center">
-  <img src="C:\Users\Fg\Downloads\artificial intelligence horror GIF by Red Giant.gif&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbecker-lisa_llms-dont-plan-out-the-text-theyre-generating-activity-7138508006106853376-Oo4P&psig=AOvVaw2Kt6R8GTovgeAGeAjVBmw4&ust=1741944589563000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDZ7LffhowDFQAAAAAdAAAAABBZ"/>
 </p>
