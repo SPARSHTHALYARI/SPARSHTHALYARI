@@ -10,7 +10,7 @@
 
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/SPARSHTHALYARI/README.md/main/Artificial%20Intelligence%20Horror%20GIF%20by%20Red%20Giant.gif" alt="AI Horror GIF" />
+  <img src="https://github.com/SPARSHTHALYARI/SPARSHTHALYARI/blob/main/artificial%20intelligence%20horror%20GIF%20by%20Red%20Giant.gif">
 </p>
 
 
