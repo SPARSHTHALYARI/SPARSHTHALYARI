@@ -9,6 +9,9 @@
 ⚡ Fun Fact: AI never sleeps, but I do… sometimes! 😆
 
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvizard.sleekplan.app%2Fchangelog%2F37596&psig=AOvVaw2Kt6R8GTovgeAGeAjVBmw4&ust=1741944589563000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCMDZ7LffhowDFQAAAAAdAAAAABCJAQ"/>
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/repo-name/main/Artificial%20Intelligence%20Horror%20GIF%20by%20Red%20Giant.gif" alt="AI Horror GIF" />
 </p>
+
+
+
