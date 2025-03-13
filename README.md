@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hey there! I'm Sparsh Thalyari
+🔍 Data Scientist | 💡 Exploring LLM, SLM & SCM | 📚 Learning NLP
 
-<!--
-**SPARSHTHALYARI/SPARSHTHALYARI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about AI & Machine Learning, I work on Large Language Models (LLM), Small Language Models (SLM), and Supply Chain Management (SCM). Currently diving deep into Natural Language Processing (NLP) and always open to guidance, collaboration, and new opportunities!
 
-Here are some ideas to get you started:
+🤝 Looking for help & mentorship in advancing my NLP expertise.
+📞 Let's connect! Reach me at 8278879301.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun Fact: AI never sleeps, but I do… sometimes! 😆
+
+<a href=""C:\Users\Fg\Downloads\artificial intelligence horror GIF by Red Giant.gif"">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
