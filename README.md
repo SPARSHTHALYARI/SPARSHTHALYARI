@@ -10,5 +10,5 @@
 
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fbecker-lisa_llms-dont-plan-out-the-text-theyre-generating-activity-7138508006106853376-Oo4P&psig=AOvVaw2Kt6R8GTovgeAGeAjVBmw4&ust=1741944589563000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDZ7LffhowDFQAAAAAdAAAAABBZ"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvizard.sleekplan.app%2Fchangelog%2F37596&psig=AOvVaw2Kt6R8GTovgeAGeAjVBmw4&ust=1741944589563000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCMDZ7LffhowDFQAAAAAdAAAAABCJAQ"/>
 </p>
